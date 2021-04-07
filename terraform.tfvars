@@ -1,5 +1,5 @@
 # GCP Settings
-gcp_project = "garden-green-456813"
+gcp_project = "sayem"
 gcp_region  = "europe-west4"
 
 # Bucket
